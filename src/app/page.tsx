@@ -32,8 +32,6 @@ export default function Home() {
           </strong>
         </span>
         <span className="h-[3px] w-[3px] rounded-full bg-[var(--ink-mute)]" />
-        <span>5 min read</span>
-        <span className="h-[3px] w-[3px] rounded-full bg-[var(--ink-mute)]" />
         <span>Updated this week</span>
       </div>
 
